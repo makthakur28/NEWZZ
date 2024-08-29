@@ -1,10 +1,8 @@
-Here's a README file template for your `NEWZZ` news app:
-
----
-
 # NEWZZ - News App
 
 NEWZZ is a news app built using Flutter and powered by the [NewsAPI](https://newsapi.org/). This app provides users with real-time news updates, top headlines, breaking news, trending news, and news filtered by category and channel. 
+
+![NEWZZ Thumbnail](https://raw.githubusercontent.com/makthakur28/NEWZZ/master/NewzzThumbnail.jpg)
 
 ## Features
 
